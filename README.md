@@ -1,4 +1,4 @@
-app-fast-enough-workshop
+aapp-fast-enough-workshop
 ========================
 
 Here you will learn how to create Real-Time PHP application with PWA and Electron.
